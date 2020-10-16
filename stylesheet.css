@@ -1,5 +1,6 @@
 body {
   font-family: "Avenir Next";
+  background-color: #DEB887
 }
 
 li {
@@ -7,7 +8,7 @@ li {
 }
 
 .header {
-  background-color: #26d0c9;
+  background-color: #A52A2A ;
   color: #fff;
   height: 90px;
 }
